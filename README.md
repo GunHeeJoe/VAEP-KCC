@@ -1,4 +1,4 @@
-# VAEP-KCC
+# VAEP(Valuing Actions by Estimating Probabilities)
 
 -StatsBomb데이터를 활용하여 모든 플레이별 가치를 평가하는 지표 :VAEP<br/>
 -VAEP는 각 플레이의 득점 및 실점 확률을 예측하여 득점확률변화량-실점확률변화량로 계산된다.<br/>
