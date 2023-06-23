@@ -16,9 +16,9 @@ ii) game_id = 3,773,689 has data of score_label=1, concede_label=1. This is inco
 2.soccer computer.ipynb : Define SPADL, Feature, and Label for Train, Valid, and Test data<br/>
 i) train : 2004/2005 ~ 2018/2019 season<br/>
 ii) valid : 2019/2020 season<br/>
-iii) test : 2020/2021 season<br/> 
+iii) test : 2020/2021 season<br/> <br/>
 
-3 soccer data preprocess.ipynb : soccer data preprocessing
-i) Error data preproceing
-ii) Create additional features
-iii) Create labels for multi-classification
+3 soccer data preprocess.ipynb : soccer data preprocessing<br/>
+i) Error data preproceing<br/>
+ii) Create additional features<br/>
+iii) Create labels for multi-classification<br/><br/>
