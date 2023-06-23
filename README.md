@@ -9,6 +9,6 @@
 -Previously, machine learning techniques such as boosting, random-forest, and logistic were used to predict the score probability and the concede probability of each action<br/>
 -In this study, the performance improvement compared to the Machine learning technique was verified by predicting the scoring probability and the concede probability using the deep-learning technique<br/><br/>
 
-1.soccer data load.ipynb : StatsBomb데이터를 loading하는 작업<br/>
--본 연구에서는 LaLiga데이터를 활용할 예정<br/>
--game_id = 3,773,689는 특정 플레이 이후 score_label=1, concede_label=1인 데이터가 존재함. 이는 부정확한 데이터이므로 해당 경기 데이터는 제거함<br/><br/>
+1.soccer data load.ipynb : StatsBomb data loading<br/>
+-In this study, LaLiga data will be used<br/>
+-game_id = 3,773,689 has data of score_label=1, concede_label=1. This is incorrect data and will remove the competition data<br/><br/>
