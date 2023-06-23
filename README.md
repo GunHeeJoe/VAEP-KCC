@@ -1,9 +1,9 @@
 # VAEP(Valuing Actions by Estimating Probabilities)
 
--StatsBomb데이터를 활용하여 모든 플레이별 가치를 평가하는 지표 :VAEP<br/>
--VAEP는 각 플레이의 득점 및 실점 확률을 예측하여 득점확률변화량-실점확률변화량로 계산된다.<br/>
--feature : 행동 유형, 행동 결과, 위치, 골까지 거리, 골까지 각도등 활용<br/>
--label : 각 플레이 이후 10개의 플레이 안에 득점을 하면 score_label = 1, 실점을 하면 concede_label=1<br/><br/>
+-An indicator that uses data called StatsBomb to evaluate the value of all plays : VAEP<br/>
+-VAEP is calculated as the difference between the change in scoring probability and the change in conceding probability after predicting the score probability and the concede probability of each play through machine learning.<br/>
+-feature : action type, action result, position, dist to goal, angle to goal, time등 활용<br/>
+-label : score_label=1 if you score within 10 action after each action, and concede_label=1 if you concede within 10 action <br/><br/>
 
 -기존에는 boosting, random-forest, logistic등의 Machine learning기법을 활용하여 득점 및 실점 확률을 예측했지만<br/>
 -본 연구에서는 deep-learning기법을 활용하여 예측함으로써 Machine learning기법보다 성능 향상을 검증함<br/><br/>
