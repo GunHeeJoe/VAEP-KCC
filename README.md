@@ -12,3 +12,10 @@
 1.soccer data load.ipynb : StatsBomb data loading<br/>
 -In this study, LaLiga data will be used<br/>
 -game_id = 3,773,689 has data of score_label=1, concede_label=1. This is incorrect data and will remove the competition data<br/><br/>
+
+2.soccer computer.ipynb : Define SPADL, Feature, and Label for Train, Valid, and Test data<br/>
+i) train : 2004/2005 ~ 2018/2019 season<br/>
+ii) valid : 2019/2020 season<br/>
+iii) test : 2020/2021 season<br/> 
+
+
