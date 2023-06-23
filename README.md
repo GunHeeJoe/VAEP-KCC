@@ -6,7 +6,7 @@
 -label : 각 플레이 이후 10개의 플레이 안에 득점을 하면 score_label = 1, 실점을 하면 concede_label=1
 
 -기존에는 boosting, random-forest, logistic등의 Machine learning기법을 활용하여 득점 및 실점 확률을 예측했지만
--본 연구에서는 deep-learning기법을 활용하여 예측함으로써 Machine learning기법보다 성능 향상을 검증함
+\n-본 연구에서는 deep-learning기법을 활용하여 예측함으로써 Machine learning기법보다 성능 향상을 검증함
 
 1.soccer data load.ipynb : StatsBomb데이터를 loading하는 작업
 -본 연구에서는 LaLiga데이터를 활용할 예정
