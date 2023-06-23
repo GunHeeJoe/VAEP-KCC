@@ -9,11 +9,11 @@
 -Previously, machine learning techniques such as boosting, random-forest, and logistic were used to predict the score probability and the concede probability of each action<br/>
 -In this study, the performance improvement compared to the Machine learning technique was verified by predicting the scoring probability and the concede probability using the deep-learning technique<br/><br/>
 
-1.soccer data load.ipynb : StatsBomb data loading<br/>
+1. soccer data load.ipynb : StatsBomb data loading<br/>
 i) In this study, LaLiga data will be used<br/>
 ii) game_id = 3,773,689 has data of score_label=1, concede_label=1. This is incorrect data and will remove the competition data<br/><br/>
 
-2.soccer computer.ipynb : Define SPADL, Feature, and Label for Train, Valid, and Test data<br/>
+2. soccer computer.ipynb : Define SPADL, Feature, and Label for Train, Valid, and Test data<br/>
 i) train : 2004/2005 ~ 2018/2019 season<br/>
 ii) valid : 2019/2020 season<br/>
 iii) test : 2020/2021 season<br/><br/>
