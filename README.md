@@ -18,7 +18,14 @@ i) train : 2004/2005 ~ 2018/2019 season<br/>
 ii) valid : 2019/2020 season<br/>
 iii) test : 2020/2021 season<br/> <br/>
 
-3 soccer data preprocess.ipynb : soccer data preprocessing<br/>
+3. soccer data preprocess.ipynb : soccer data preprocessing<br/>
 i) Error data preproceing<br/>
 ii) Create additional features<br/>
 iii) Create labels for multi-classification<br/><br/>
+
+-Modeling & Analysis
+1. ML_BinaryClassification : Machine learning to perform binary classification
+i) Catboost is used to predict the probability of scoring and conceding
+ii) Calculate the VAEP using the probability of scoring and the conceding
+iii) Quantitative & Qualitative Indicators
+link : https://www.youtube.com/watch?v=EhodpjwTtag&t=1986s
