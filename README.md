@@ -24,8 +24,13 @@ ii) Create additional features<br/>
 iii) Create labels for multi-classification<br/><br/>
 
 -Modeling & Analysis<br/>
-1. ML_BinaryClassification : Machine learning to perform binary classification<br/>
-i) Catboost is used to predict the probability of scoring and conceding<br/>
+1. ML_BinaryClassification : Machine learning to perform binary-classification<br/>
+i) Using the same dataset, CatBoost is used to create a scoring probability model and a concede probability model, respectively<br/>
 ii) Calculate the VAEP using the probability of scoring and the conceding<br/>
 iii) Quantitative & Qualitative Indicators<br/>
-link : https://www.youtube.com/watch?v=EhodpjwTtag&t=1986s<br/>
+link : https://www.youtube.com/watch?v=EhodpjwTtag&t=1986s<br/><br/>
+
+2. DL_Classification<br/>
+i) Deeplearning creates binary-classifications used in previous study and multi-classification proposed in this study
+ii) Calculate the VAEP using the probability of scoring and the conceding<br/>
+iii) Quantitative & Qualitative Indicators<br/><br/>
