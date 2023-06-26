@@ -1,6 +1,6 @@
 # VAEP(Valuing Actions by Estimating Probabilities)
 
-Always welcome if you are curious about the progress of my research or my thesis
+Always welcome if you are curious about the progress of my research or my thesis<br/><br/>
 
 <Introduction>
 -An indicator that uses data called StatsBomb to evaluate the value of all actions : VAEP<br/>
