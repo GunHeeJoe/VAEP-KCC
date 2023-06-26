@@ -3,7 +3,7 @@
 <Introduction>
 -An indicator that uses data called StatsBomb to evaluate the value of all actions : VAEP<br/>
 -VAEP is calculated as the difference between the change in scoring probability and the change in conceding probability after predicting the score probability and the concede probability of each action through machine learning.<br/>
--feature : action type, action result, position, dist to goal, angle to goal, time등 활용<br/>
+-feature : action type, action result, position, dist to goal, angle to goal, time, etc<br/>
 -label : score_label=1 if you score within 10 action after each action, and concede_label=1 if you concede within 10 action <br/><br/>
 
 -Previously, machine learning techniques such as boosting, random-forest, and logistic were used to predict the score probability and the concede probability of each action<br/>
