@@ -7,7 +7,7 @@
 -label : score_label=1 if you score within 10 action after each action, and concede_label=1 if you concede within 10 action <br/><br/>
 
 -Previously, machine learning techniques such as boosting, random-forest, and logistic were used to predict the score probability and the concede probability of each action<br/>
--In this study, the performance improvement compared to the Machine learning technique was verified by predicting the scoring probability and the concede probability using the deep-learning technique<br/><br/>
+-In this study, Deep learning is used to predict the probability of scoring and conceding<br/><br/>
 
 <function><br/>
   
