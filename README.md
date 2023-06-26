@@ -15,6 +15,7 @@ ii)Binary classification through existing machine learning analyzes quantitative
 iii)In deep learning, it should be implemented according to characteristics different from machine learning, not just changing the model.<br/>
 -Embedding : There are numerical and categorical attributes in soccer data<br/>
 -Data imbalance : Deep learning does not solve the class imbalance problem on its own<br/>
+-Model : Various classification models<br/>
 
 <function><br/>
   
