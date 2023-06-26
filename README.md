@@ -18,7 +18,7 @@ iii) In deep learning, it should be implemented according to characteristics dif
 -Data imbalance : Deep learning does not solve the class imbalance problem on its own<br/>
 -Model : Various classification models<br/>
 
-function
+Function
 ----------------
 1. soccer data load.ipynb : StatsBomb data loading<br/>
 i) In this study, LaLiga data will be used<br/>
