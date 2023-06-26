@@ -8,8 +8,8 @@
 
 -Previously, machine learning techniques such as boosting, random-forest, and logistic were used to predict the score probability and the concede probability of each action<br/>
 -In this study, Deep learning is used to predict the probability of scoring and conceding<br/><br/>
-i)Before modeling, Data loading, extraction, and preprocessing are performed through 1, 2, and 3.<br/>
-ii)Binary classification through existing machine learning analyzes quantitative and qualitative indicators after implementation in modeling No. 1<br/>
+i)Before modeling, Data loading, extraction, and preprocessing are performed through 1, 2, and 3. <br/>
+ii)Binary classification through existing machine learning analyzes quantitative and qualitative indicators after implementation in modeling No. 1 <br/>
 iii)In deep learning, it should be implemented according to characteristics different from machine learning, not just changing the model.<br/>
 -Embedding : There are numerical and categorical attributes in soccer data<br/>
 -Data imbalance : Deep learning does not solve the class imbalance problem on its own<br/>
