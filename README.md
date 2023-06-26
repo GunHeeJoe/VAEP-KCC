@@ -19,7 +19,7 @@ iii)In deep learning, it should be implemented according to characteristics diff
 -Model : Various classification models<br/>
 
 <function><br/>
-  
+----------------
 1. soccer data load.ipynb : StatsBomb data loading<br/>
 i) In this study, LaLiga data will be used<br/>
 ii) game_id = 3,773,689 has data of score_label=1, concede_label=1. This is incorrect data and will remove the game data<br/><br/>
