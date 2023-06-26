@@ -3,7 +3,7 @@
 ### Always welcome if you are curious about the progress of my research or my thesis<br/><br/>
 
 Introduction
-==============
+----------------
 -An indicator that uses data called StatsBomb to evaluate the value of all actions : VAEP<br/>
 -VAEP is calculated as the difference between the change in scoring probability and the change in conceding probability after predicting the score probability and the concede probability of each action through machine learning.<br/>
 -feature : action type, action result, position, dist to goal, angle to goal, time, etc<br/>
@@ -34,7 +34,7 @@ i) Error data preproceing<br/>
 ii) Create additional features<br/>
 iii) Create labels for multi-classification<br/><br/>
 
--Modeling & Analysis<br/>
+-Modeling & Analysis & Evaluation<br/>
 1. ML_BinaryClassification : Machine learning to perform binary-classification<br/>
 i) Using the same dataset, CatBoost is used to create a scoring probability model and a concede probability model, respectively<br/>
 ii) Calculate the VAEP using the probability of scoring and the conceding<br/>
