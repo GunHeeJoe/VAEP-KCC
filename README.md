@@ -36,14 +36,14 @@ iii) Create labels for multi-classification<br/><br/>
 
 4. Modeling & Analysis & Evaluation<br/>
 
-4.1 ML_BinaryClassification : Machine learning to perform binary-classification<br/>
+- 4.1 ML_BinaryClassification : Machine learning to perform binary-classification<br/>
 i) Using the same dataset, CatBoost is used to create a scoring probability model and a concede probability model, respectively<br/>
 ii) Calculate the VAEP using the probability of scoring and the conceding<br/>
 iii) Quantitative & Qualitative Indicators<br/>
 -Qualitative indicators will evaluate the play followed by Valverde's actions, Vasquez's cross, and finally Benzema's shot, starting with Tony Cross's pass at 18:36 of the link below.<br/>
 link : https://www.youtube.com/watch?v=EhodpjwTtag&t=1986s<br/><br/>
 
-4.2 DL_Classification<br/>
+- 4.2 DL_Classification<br/>
 i) Deeplearning creates binary-classifications used in previous study and multi-classification proposed in this study<br/>
 ii) Calculate the VAEP using the probability of scoring and the conceding<br/>
 iii) Quantitative & Qualitative Indicators<br/>
