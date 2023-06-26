@@ -47,7 +47,7 @@ link : https://www.youtube.com/watch?v=EhodpjwTtag&t=1986s<br/><br/>
 i) Deeplearning creates binary-classifications used in previous study and multi-classification proposed in this study<br/>
 ii) Oversampling is performed to solve the class imbalance. The oversampling technique proceeds by extracting data equally at the ratio of each label for each batch<br/>
 iii) Calculate the VAEP using the probability of scoring and the conceding<br/>
-  v) Quantitative & Qualitative Indicators<br/>
-iv) In this study, torchfm/model/Upgrade_Dcn.py & torchfm/layer.py was used. There are many other models and embedding techniques, so please refer to them<br/>
+iv) Quantitative & Qualitative Indicators<br/>
+vi) In this study, torchfm/model/Upgrade_Dcn.py & torchfm/layer.py was used. There are many other models and embedding techniques, so please refer to them<br/>
 -https://github.com/kitayama1234/Pytorch-Entity-Embedding-DNN-Regressor/blob/master/model.py<br/>
 -https://github.com/rixwew/pytorch-fm/tree/master/torchfm<br/><br/>
