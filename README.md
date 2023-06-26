@@ -51,3 +51,9 @@ iv) Quantitative & Qualitative Indicators<br/>
 vi) In this study, torchfm/model/Upgrade_Dcn.py & torchfm/layer.py was used. There are many other models and embedding techniques, so please refer to them<br/>
 -https://github.com/kitayama1234/Pytorch-Entity-Embedding-DNN-Regressor/blob/master/model.py<br/>
 -https://github.com/rixwew/pytorch-fm/tree/master/torchfm<br/><br/>
+
+Conclusion
+----------------
+i) Expressions for Deep Learning to Understand Soccer Data<br/>
+ii) Multiple classifications and oversampling to solve the class imbalances<br/>
+iii) Quantitatively, It not only showed performance improvement over existing boosting algorithms, but also verified that it is more convincing in qualitative indicators<br/>
